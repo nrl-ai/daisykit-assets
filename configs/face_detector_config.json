@@ -14,6 +14,6 @@
     "weights": "models/facial_landmark/pfld-sim.bin",
     "input_width": 112,
     "input_height": 112,
-    "use_gpu": false
+    "use_gpu": true
   }
 }
