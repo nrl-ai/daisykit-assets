@@ -1,6 +1,6 @@
 {
   "background_matting_model": {
-    "model": "models/human_matting/erd/erdnet.param",
-    "weights": "models/human_matting/erd/erdnet.bin"
+    "model": "models/background_matting/erd/erdnet.param",
+    "weights": "models/background_matting/erd/erdnet.bin"
   }
 }
