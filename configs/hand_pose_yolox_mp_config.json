@@ -5,11 +5,13 @@
     "input_width": 256,
     "input_height": 256,
     "score_threshold": 0.45,
-    "iou_threshold": 0.65
+    "iou_threshold": 0.65,
+    "use_gpu": false
   },
   "hand_pose_model": {
     "model": "models/hand_pose/hand_lite-op.param",
     "weights": "models/hand_pose/hand_lite-op.bin",
-    "input_size": 224
+    "input_size": 224,
+    "use_gpu": false
   }
 }
