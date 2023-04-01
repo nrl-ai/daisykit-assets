@@ -1,7 +1,7 @@
 {
   "person_detection_model": {
-    "model": "models/human_detection/ssd_mobilenetv2.param",
-    "weights": "models/human_detection/ssd_mobilenetv2.bin",
+    "model": "models/human_detection/ssd_mobilenetv2/ssd_mobilenetv2.param",
+    "weights": "models/human_detection/ssd_mobilenetv2/ssd_mobilenetv2.bin",
     "input_width": 320,
     "input_height": 320,
     "use_gpu": false

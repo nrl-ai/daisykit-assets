@@ -1,7 +1,7 @@
 {
   "object_detection_model": {
-    "model": "models/object_detection/yolox-nano.param",
-    "weights": "models/object_detection/yolox-nano.bin",
+    "model": "models/object_detection/yolox/yolox-nano.param",
+    "weights": "models/object_detection/yolox/yolox-nano.bin",
     "input_width": 416,
     "input_height": 416,
     "score_threshold": 0.5,
